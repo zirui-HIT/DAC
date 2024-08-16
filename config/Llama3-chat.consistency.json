@@ -1,0 +1,12 @@
+{
+    "ignore_too_long": false,
+    "batch_size": 128,
+    "temperature": 0.1,
+    "max_tokens": 4096,
+    "top_p": 1,
+    "n": 5,
+    "stop": [
+        "<|eot_id|>",
+        "<|end_of_text|>"
+    ]
+}

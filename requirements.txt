@@ -1,0 +1,6 @@
+vllm
+scipy
+openai
+sklearn
+shapely
+func_timeout

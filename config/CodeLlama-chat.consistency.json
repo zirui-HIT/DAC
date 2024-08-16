@@ -1,0 +1,22 @@
+{
+    "ignore_too_long": false,
+    "batch_size": 128,
+    "temperature": 0.3,
+    "max_tokens": 4096,
+    "top_p": 1,
+    "n": 5,
+    "stop": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "<|eot_id|>"
+    ]
+}

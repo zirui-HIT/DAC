@@ -1,0 +1,24 @@
+{
+    "ignore_too_long": false,
+    "batch_size": 256,
+    "temperature": 0,
+    "max_tokens": 2048,
+    "top_p": 1,
+    "n": 1,
+    "stop": [
+        "<|endoftext|>",
+        "[MASK]",
+        "[gMASK]",
+        "[sMASK]",
+        "<sop>",
+        "<eop>",
+        "<|system|>",
+        "<|user|>",
+        "<|assistant|>",
+        "<|observation|>",
+        "<|begin_of_image|>",
+        "<|end_of_image|>",
+        "<|begin_of_video|>",
+        "<|end_of_video|>"
+    ]
+}

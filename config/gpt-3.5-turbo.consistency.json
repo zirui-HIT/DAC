@@ -1,0 +1,8 @@
+{
+    "temperature": 0.3,
+    "max_tokens": 4096,
+    "top_p": 1,
+    "n": 5,
+    "timeout": 15,
+    "parallel": true
+}
