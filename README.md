@@ -1,6 +1,6 @@
 # DAC: Decomposed Automation Correction for Text-to-SQL
 
-This repository contains code for the paper "DAC: Decomposed Automation Correction for Text-to-SQL".
+This repository contains code for the paper ["DAC: Decomposed Automation Correction for Text-to-SQL"](https://arxiv.org/abs/2408.08779).
 
 ## Build Environment
 ```bash
