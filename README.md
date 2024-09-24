@@ -9,7 +9,8 @@ conda activate dac
 pip install requirements.txt
 ```
 
-Download and put the [Spider](https://drive.google.com/u/0/uc?id=1iRDVHLr4mX2wQKSgA9J8Pire73Jahh0m&export=download), [Bird](https://bird-bench.github.io) and [KaggleDBQA](https://github.com/Chia-Hsuan-Lee/KaggleDBQA) databases in ./dataset
+Download and put the [Spider](https://drive.google.com/u/0/uc?id=1iRDVHLr4mX2wQKSgA9J8Pire73Jahh0m&export=download), [Bird](https://bird-bench.github.io) and [KaggleDBQA](https://github.com/Chia-Hsuan-Lee/KaggleDBQA) databases in ./dataset.
+
 Download alignment data from https://github.com/microsoft/ContextualSP/tree/master, and change the data path in DAC/result/Spider/scripts.
 
 Implement your openai-key in [utils/generator.py](utils/generator.py) if you want to use openai to generate demonstrations.
